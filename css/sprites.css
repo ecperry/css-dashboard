@@ -1,0 +1,256 @@
+.menu-green, .menu-blue, .ad-people, .ad-orange, .ad-green, .dial-green, .heads-green, .messages-green, .circle-graph-2, .circle-graph-1, .line-graph-orange, .line-graph-green, .tag-green, .pad-green, .Screenshot-2016-01-24 11.30.13, .question-blue, .search, .arrow-orange-right, .arrow-orange-left, .gear-, .head-gray, .circle-gray, .article-green, .check-green, .circle-green, .gear-blue, .head-blue, .light-green, .google-plus, .bar-graph, .facebook, .twitter, .foursquare, .ribbon-left, .ribbon-right, .head-orange, .head-green, .arrow-blue-left, .arrow-blue-right, .car, .social-bar, .arrow-up{
+	background: url(sprites.png) no-repeat;
+}
+
+.menu-green{
+	background-position: 0 0;
+	width: 907px;
+	height: 96px;
+}
+
+.menu-blue{
+	background-position: 0 -103px ;
+	width: 918px;
+	height: 93px;
+}
+
+.ad-people{
+	background-position: -2px -202px ;
+	width: 286px;
+	height: 186px;
+}
+
+.ad-orange{
+	background-position: -303px -206px ;
+	width: 280px;
+	height: 172px;
+}
+
+.ad-green{
+	background-position: -599px -205px ;
+	width: 266px;
+	height: 169px;
+}
+
+.dial-green{
+	background-position: -3px -395px ;
+	width: 75px;
+	height: 74px;
+}
+
+.heads-green{
+	background-position: -102px -397px ;
+	width: 74px;
+	height: 58px;
+}
+
+.messages-green{
+	background-position: -202px -396px ;
+	width: 74px;
+	height: 64px;
+}
+
+.circle-graph-2{
+	background-position: -921px 0;
+	width: 112px;
+	height: 94px;
+}
+
+.circle-graph-1{
+	background-position: -943px -105px ;
+	width: 103px;
+	height: 93px;
+}
+
+.line-graph-orange{
+	background-position: -882px -213px ;
+	width: 218px;
+	height: 107px;
+}
+
+.line-graph-green{
+	background-position: -1051px 0;
+	width: 198px;
+	height: 96px;
+}
+
+.tag-green{
+	background-position: -301px -394px ;
+	width: 74px;
+	height: 66px;
+}
+
+.pad-green{
+	background-position: -401px -395px ;
+	width: 73px;
+	height: 65px;
+}
+
+.Screenshot-2016-01-24 11.30.13{
+	background-position: -501px -396px ;
+	width: 69px;
+	height: 74px;
+}
+
+.question-blue{
+	background-position: -1111px -156px ;
+	width: 53px;
+	height: 49px;
+}
+
+.search{
+	background-position: -1058px -157px ;
+	width: 37px;
+	height: 30px;
+}
+
+.arrow-orange-right{
+	background-position: -1112px -108px ;
+	width: 29px;
+	height: 31px;
+}
+
+.arrow-orange-left{
+	background-position: -1058px -109px ;
+	width: 31px;
+	height: 30px;
+}
+
+.gear-{
+	background-position: -659px -401px ;
+	width: 37px;
+	height: 29px;
+}
+
+.head-gray{
+	background-position: -613px -403px ;
+	width: 32px;
+	height: 30px;
+}
+
+.circle-gray{
+	background-position: -710px -400px ;
+	width: 45px;
+	height: 47px;
+}
+
+.article-green{
+	background-position: -762px -396px ;
+	width: 48px;
+	height: 45px;
+}
+
+.check-green{
+	background-position: -821px -397px ;
+	width: 37px;
+	height: 42px;
+}
+
+.circle-green{
+	background-position: -787px -455px ;
+	width: 39px;
+	height: 37px;
+}
+
+.gear-blue{
+	background-position: -602px -540px ;
+	width: 56px;
+	height: 45px;
+}
+
+.head-blue{
+	background-position: -863px -399px ;
+	width: 30px;
+	height: 27px;
+}
+
+.light-green{
+	background-position: -847px -448px ;
+	width: 34px;
+	height: 44px;
+}
+
+.google-plus{
+	background-position: -685px -493px ;
+	width: 69px;
+	height: 28px;
+}
+
+.bar-graph{
+	background-position: -901px -337px ;
+	width: 431px;
+	height: 216px;
+}
+
+.facebook{
+	background-position: -591px -458px ;
+	width: 84px;
+	height: 27px;
+}
+
+.twitter{
+	background-position: -596px -496px ;
+	width: 62px;
+	height: 28px;
+}
+
+.foursquare{
+	background-position: -679px -460px ;
+	width: 85px;
+	height: 24px;
+}
+
+.ribbon-left{
+	background-position: -526px -493px ;
+	width: 21px;
+	height: 49px;
+}
+
+.ribbon-right{
+	background-position: -565px -497px ;
+	width: 22px;
+	height: 41px;
+}
+
+.head-orange{
+	background-position: -145px -478px ;
+	width: 133px;
+	height: 83px;
+}
+
+.head-green{
+	background-position: -288px -480px ;
+	width: 115px;
+	height: 71px;
+}
+
+.arrow-blue-left{
+	background-position: -475px -495px ;
+	width: 26px;
+	height: 62px;
+}
+
+.arrow-blue-right{
+	background-position: -429px -478px ;
+	width: 28px;
+	height: 65px;
+}
+
+.car{
+	background-position: -61px -488px ;
+	width: 72px;
+	height: 72px;
+}
+
+.social-bar{
+	background-position: -705px -545px ;
+	width: 142px;
+	height: 50px;
+}
+
+.arrow-up{
+	background-position: -12px -490px ;
+	width: 27px;
+	height: 26px;
+}
+
