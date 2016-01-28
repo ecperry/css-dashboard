@@ -6,59 +6,18 @@
 /*# sourceMappingURL=bootstrap.min.css.map*/
 
 
-/* this is for navbar version, decided not to use it
-.navbar {
-  color: white;
-  margin: 0 0 0 0
-  height: auto;
-  padding: 0 0 0 0;
-  width: auto;
-  border-bottom:none;
-  line-height: 28px;
-}
-.navbar-default {
-  color: white;
-  margin: 0 0 0 0;
-  height: auto;
-  padding: 0 0 0 0;
-  width: auto;
-  border-bottom:none;
-  line-height: 28px;
-}
-
-.navbar-fixed-top {
-  color: white;
-  margin: 0 0 0 0;
-  height: auto;
-  padding: 0 0 0 0;
-  width: auto;
-  border-bottom:none;
-  line-height: 28px;
-}
-end here */
-/*
-.lightblue {
-  margin: 0 -20px 0 -20px;
-  padding: 3% 0 3% 0;
-  margin: 0 0 0 0;
-  line-height: 28px;
-  border: 0 0 0 0;
-  color:white;
-  background:linear-gradient(#0099FF,#006699);
-}
-*/
 .lightblue {
   margin: -20px -35px 0 -35px;;
   padding: 2% 2% 2% 2%;
-  background:linear-gradient(#0099FF,#006699);
-  vertical-align: center;
+  background:linear-gradient(#2294ee,#1d86da);
   color:white;
+
 }
 
 .darkblue {
-  padding: 3% 0 3% 0;
+  padding: - 0 0 0;
   border: 0 0 0 0;
-  background-color: #003366;
+  background-color: #134670;
   color: white;
   text-align: center;
   margin: 0 -40px 0 -40px;
@@ -78,7 +37,7 @@ end here */
 .gray{
   background:linear-gradient(#F0F0F0,#FFFFFF,#FFFFFF);
   margin: 2% 8% 2% 8%;
-  padding: 2% 3% 0 3%;
+  padding: 1% 5% 0 2%;
   width: 84%;
   border-radius: 8px;
   line-height: 30%;
@@ -86,25 +45,162 @@ end here */
 
 .white {
   width: 100%;
-  padding: 2% 2% 2% 2%;
-  margin: 0 0 0 0;
+  padding: 0;
+  margin: 2% 2% 2% 2%;
   line-height: 28px;
   border-top: none;
   background-color:white;
+  border-color: lightgrey;
 
+}
+.col-sm-1 {
+  background-color: white;
+  border-color: lightgrey;
+  border-width: thin;
+  border-style: solid;
+  border-left: 0px;
+  border-bottom: 0px;
+  margin: 0;
+}
+.col-sm-2 {
+  background-color: white;
+  border-color: lightgrey;
+  border-width: thin;
+  border-style: solid;
+  border-right: 0px;
+  border-bottom: 0px;
+  padding-top: 10px;
+}
+.col-sm-3{
+  background-color: white;
+  border-color: lightgrey;
+  border-width: thin;
+  border-style: solid;
+  border-right: 0px;
+  border-top: 0px;
+  border-bottom: 0px;
+  padding-top: 10px;
 }
 .col-sm-4 {
   background-color: white;
+  border-color: lightgrey;
+  border-width: thin;
+  border-style: solid;
+  padding-top: 10px;
+
+}
+.col-sm-8 {
+  background-color: white;
+  border-color: lightgrey;
+  border-width: thin;
+  border-style: solid;
+  border-left: 0px;
+  border-bottom: 0px;
+  padding-top: 10px;
+}
+.col-sm-9 {
+  background-color: white;
+  border-color: lightgrey;
+  border-width: thin;
+  border-style: solid;
+  border-bottom: 0px;
+  padding-top: 10px;
+}
+
+.top-border {
+  border-color:lightgrey;
+  border-width:thin;
+  border-style: solid;
+  border-right: 0;
+  border-bottom: 0;
+  border-left: 0;
+  padding: 10px 0 0 10px;
+
+}
+.bottom {
+  border-color:lightgrey;
+  border-width:thin;
+  border-style: solid;
+  border-right: 0;
+  border-top: 0;
+  border-left: 0;
+}
+
+.col-sm-6 {
+  background-color: white;
+  border-color: lightgrey;
+  border-width: thin;
+  border-style: solid;
+  border-top: 0;
+  margin: 0 7.5% 0 7.5%;
+  width:35%;
+  padding: 0 0 2% 0;
+}
+
+.blue {
+  background-color:#2294ee;
+  color: white;
+  margin: 0;
+  width: 100%;
+  text-align: center;
 
 
 }
 
+.box {
+  background-color: white;
+  border-color: lightgrey;
+  border-width: thin;
+  border-style: solid;
+  border-top: 0;
+  margin: 0;
+  width:100%;
+  padding: 2% 2% 2% 2%;
 
-/* this is modified from here: http://cssdeck.com/labs/search-bar-that-you-must-see
-.div {
-	text-align: center;
+}
+.not
+{
+  background-color:none;
+  border-color: none;
+  border: 0;
+  padding-top: 0;
 }
 
+.slider{
+  background-color:#2294ee;
+  color:white;
+  padding: 5px 5px 5px 5px;
+  margin: 0;
+  width: 100%;"
+}
+
+.menu {
+    opacity: 0;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+.img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+.tiny{
+  margin: .2px .2px .2px .2px;
+  padding: .2px .2px .2px 5px;
+  border-color: lightgrey;
+  border-width: thin;
+  border-style: solid;
+  border-radius: 6px;
+}
+
+
+.mini {
+  color:#0099FF;
+
+}
+
+
+/*this is from W3 Schools*/
 form {
 	position: relative;
 	display: inline-block;
@@ -117,22 +213,22 @@ input[type="text"] {
 	-webkit-box-sizing: content-box;
 	box-sizing: content-box;
 	background: white;
-	-webkit-border-radius: 1px;
-	-moz-border-radius: 1px;
-	border-radius: 5px;
-	height: 100%;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 10px;
+	height: 5%;
 	border: 1px solid rgba(0,0,0,0.2);
-	width: 80%;
-	padding: 3px 23px 3px 8px;
+	width: 100%;
+	padding: 0;
 }
 
 input[type="reset"] {
 	background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAGFBMVEUAAAC/v7+/v7+/v7+/v7+/v7+/v7+/v7+hAPa4AAAAB3RSTlMAQNCwkKDgPaU3lgAAAEZJREFUeNplj9EKACAIA2dm+/8/bkj4sI6wDsIpRCRFBprNxx4bD12LrwRSDxRZkCcoCqVDIW1v+9Q+W6sOOhNkY9iQtsIFhO0DtcbsWN0AAAAASUVORK5CYII=');
 	width: 14px;
 	height: 14px;
-	-webkit-border-radius: 2px;
-	-moz-border-radius: 2px;
-	border-radius: 2px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
 	border: 0;
 	text-indent: -999px;
 	position: absolute;
@@ -140,6 +236,8 @@ input[type="reset"] {
 	top: 7px;
 	cursor: pointer;
 }
+
+
 
 input[type="text"]:invalid {
 	outline: none;
@@ -149,5 +247,4 @@ input[type="text"]:invalid {
 	background: white url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAAAIVBMVEW/v7+/v78AAAC/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v79QUkolAAAAC3RSTlOLYAAJeoMjRhpOcbsbtd4AAABJSURBVHjaVc1JDsAgDATB9uAF8v8Hx0QcSN9KssZI5eClDj18PRsFlmlQDcfUGd6A3EgYP1xncQ+sa5qYOk9jRQt1Y0izhU5bL2o2AW3ZQKeJAAAAAElFTkSuQmCC) 10px 6px no-repeat;
 }
 input[type="text"]:invalid +
-
 /*end*/
